@@ -2,12 +2,12 @@
 
 ## 🥁 CarnaCode 2026 - Desafio 14 - Command
 
-Oi, eu sou o [seu nome aqui] e este é o espaço onde compartilho minha jornada de aprendizado durante o desafio **CarnaCode 2026**, realizado pelo [balta.io](https://balta.io). 👻
+Oi, eu sou o Leonardo Malavolti Monteiro e este é o espaço onde compartilho minha jornada de aprendizado durante o desafio **CarnaCode 2026**, realizado pelo [balta.io](https://balta.io). 👻
 
 Aqui você vai encontrar projetos, exercícios e códigos que estou desenvolvendo durante o desafio. O objetivo é colocar a mão na massa, testar ideias e registrar minha evolução no mundo da tecnologia.
 
 ### Sobre este desafio
-No desafio **Command** eu tive que resolver um problema real implementando o **Design Pattern** em questão.
+No desafio **Command** eu tive que resolver um problema real implementando o **Desigsaem questão.
 Neste processo eu aprendi:
 * ✅ Boas Práticas de Software
 * ✅ Código Limpo
